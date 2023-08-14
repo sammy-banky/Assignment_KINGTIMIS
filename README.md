@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>ASSG</title>
+
 </head>
 <body bgcolor="gray">
 <table WIDTH="100%" height="50px" bgcolor="white">
